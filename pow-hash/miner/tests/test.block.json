@@ -1,0 +1,82 @@
+{
+    "header": {
+        "hash": "52e80693ea920cbadcb5182553e9b14b48b88f1343b2d30450ac7e22d9c19a65",
+        "parents_by_level": [
+          [
+            "e26cf9987fb61ca72a162d130df426f063839677c36ad26228e45bfbbe26007b"
+          ],
+          [
+            "e26cf9987fb61ca72a162d130df426f063839677c36ad26228e45bfbbe26007b"
+          ],
+          [
+            "e26cf9987fb61ca72a162d130df426f063839677c36ad26228e45bfbbe26007b"
+          ],
+          [
+            "e26cf9987fb61ca72a162d130df426f063839677c36ad26228e45bfbbe26007b"
+          ],
+          [
+            "e26cf9987fb61ca72a162d130df426f063839677c36ad26228e45bfbbe26007b"
+          ],
+          [
+            "e26cf9987fb61ca72a162d130df426f063839677c36ad26228e45bfbbe26007b"
+          ],
+          [
+            "e26cf9987fb61ca72a162d130df426f063839677c36ad26228e45bfbbe26007b"
+          ],
+          [
+            "e26cf9987fb61ca72a162d130df426f063839677c36ad26228e45bfbbe26007b"
+          ],
+          [
+            "e26cf9987fb61ca72a162d130df426f063839677c36ad26228e45bfbbe26007b"
+          ],
+          [
+            "e26cf9987fb61ca72a162d130df426f063839677c36ad26228e45bfbbe26007b"
+          ],
+          [
+            "e26cf9987fb61ca72a162d130df426f063839677c36ad26228e45bfbbe26007b"
+          ],
+          [
+            "e26cf9987fb61ca72a162d130df426f063839677c36ad26228e45bfbbe26007b"
+          ],
+          [
+            "e26cf9987fb61ca72a162d130df426f063839677c36ad26228e45bfbbe26007b"
+          ],
+          [
+            "e26cf9987fb61ca72a162d130df426f063839677c36ad26228e45bfbbe26007b"
+          ],
+          [
+            "e26cf9987fb61ca72a162d130df426f063839677c36ad26228e45bfbbe26007b"
+          ],
+          [
+            "e26cf9987fb61ca72a162d130df426f063839677c36ad26228e45bfbbe26007b"
+          ]
+        ],
+        "version": 1,
+        "nonce": 8659802564027893322,
+        "hash_merkle_root": "cde754c10fba252344e7b2e6c947173a4e4616ce0c88cac241ff0ca4d5959802",
+        "accepted_id_merkle_root": "286bbbc0521458443e2f4e7df27b89c3abeba91f5cd9383472a67000e2e6240c",
+        "utxo_commitment": "16b2278f35fa501675cc9f1c6aa20a7cc1d95580ffb850bd0bbfb7b55f34b847",
+        "timestamp": 1724358111435,
+        "bits": 511705087,
+        "daa_score": 9,
+        "blue_score": 10,
+        "blue_work": "140000",
+        "pruning_point": "50e28b47b23b7074d41a3bbba0726fe7e0ec9a16ecb0992c97c050114303fff5"
+      },
+      "transactions": [
+        {
+            "version": 0,
+            "inputs": [],
+            "outputs": [{
+                "value": 1700000000,
+                "script_public_key": "000020600171a6c9e34684d67c4a6a28f695466bf5b2543c63763193351c08eabfb903ac"
+            }],
+            "subnetwork_id": "0100000000000000000000000000000000000000",
+            "lock_time": 0,
+            "gas": 0,
+            "fee": 0,
+            "mass": 0,
+            "payload": [10, 0, 0, 0, 0, 0, 0, 0, 0, 241, 83, 101, 0, 0, 0, 0, 0, 0, 34, 32, 96, 1, 113, 166, 201, 227, 70, 132, 214, 124, 74, 106, 40, 246, 149, 70, 107, 245, 178, 84, 60, 99, 118, 49, 147, 53, 28, 8, 234, 191, 185, 3, 172, 48, 46, 49, 52, 46, 50, 47, 112, 121, 114, 105, 110, 109, 105, 110, 101, 114, 45, 48, 46, 49, 52, 46, 50]
+        }
+      ]
+}

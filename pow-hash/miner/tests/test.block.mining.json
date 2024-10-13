@@ -1,0 +1,85 @@
+{
+    "header": {
+        "parents_by_level": [
+          [
+            "7ce0d7fd5653ddb5113f7fa0490095bbee8cb88b37ad7725f6a5c9d03b1ce269"
+          ],
+          [
+            "d5b2335e185dc73efc82f0043e0ee00d0840f559282911ba15dea5c5011a8ff5"
+          ],
+          [
+            "f497581a9ea545c7875b3d8f2b06e8275b111a4799a5cd732c08ff86d6a4c54e"
+          ],
+          [
+            "087e08c5aa692e85aa3cf85d4ff124653e2d4cb6e482e4ae66d3c1f84da57626"
+          ],
+          [
+            "e06a4a85e421106365deae13564cffbe750bbdf7fff7f38fde531b5a5cea5a34"
+          ],
+          [
+            "92cc7309013df54431fe9b33504da42470b01795e02a5c64ea69144d2adec7c5"
+          ],
+          [
+            "9a7a2e5574ed75dddcaf8037a47c3c95c146cda3618007bfa44dfad0dbb41074"
+          ],
+          [
+            "6b311d4928be93758fe070cf4846341bf950398d6c0291c6c4460af847ef34ba"
+          ],
+          [
+            "6b311d4928be93758fe070cf4846341bf950398d6c0291c6c4460af847ef34ba"
+          ],
+          [
+            "fd2bb9bbce0dbe89709ee9c7efd06878ad586cfbe53efb3f5ca6ae98b18b0985",
+            "d9ee7477d0adcf217c22f0e646d947e1dace7650ef27f8564d2b1053f04e9f71"
+          ],
+          [
+            "fd2bb9bbce0dbe89709ee9c7efd06878ad586cfbe53efb3f5ca6ae98b18b0985",
+            "d9ee7477d0adcf217c22f0e646d947e1dace7650ef27f8564d2b1053f04e9f71"
+          ],
+          [
+            "fd2bb9bbce0dbe89709ee9c7efd06878ad586cfbe53efb3f5ca6ae98b18b0985",
+            "d9ee7477d0adcf217c22f0e646d947e1dace7650ef27f8564d2b1053f04e9f71"
+          ],
+          [
+            "e20865d5b672eea998f64909d690f9ce011c16bdd359de5575a32f67758ef4db",
+            "d9ee7477d0adcf217c22f0e646d947e1dace7650ef27f8564d2b1053f04e9f71"
+          ],
+          [
+            "e20865d5b672eea998f64909d690f9ce011c16bdd359de5575a32f67758ef4db"
+          ],
+          [
+            "6d1c9c5639da7e582817355179d99512f64e63db4bef715e2302fbdbcbcc6fee"
+          ],
+          [
+            "0fa97e6ded85165be4a03afc44fd9b8303e22fa3918f2cca912342ee17628dfd"
+          ]
+        ],
+        "version": 1,
+        "nonce": 3407084687226396187,
+        "hash_merkle_root": "0acdf4169c5589c6eccdfd8a29c01acb2c847778ccf2345b71063d32e9b7a898",
+        "accepted_id_merkle_root": "c90eb82a87a91a1c7cfef91eea7ebe6f415b3c86416619a03eddfc427d06ffc2",
+        "utxo_commitment": "b7d9cebb61527ba7156438563429fecad574a627c04d3a84fa6afd26fae1f15c",
+        "timestamp": 1724382166495,
+        "bits": 541770867,
+        "daa_score": 754,
+        "blue_score": 755,
+        "blue_work": "448da4",
+        "pruning_point": "50e28b47b23b7074d41a3bbba0726fe7e0ec9a16ecb0992c97c050114303fff5"
+      },
+      "transactions": [
+        {
+            "version": 0,
+            "inputs": [],
+            "outputs": [{
+                "value": 1700000000,
+                "script_public_key": "000020600171a6c9e34684d67c4a6a28f695466bf5b2543c63763193351c08eabfb903ac"
+            }],
+            "subnetwork_id": "0100000000000000000000000000000000000000",
+            "lock_time": 0,
+            "gas": 0,
+            "fee": 0,
+            "mass": 0,
+            "payload": [243, 2, 0, 0, 0, 0, 0, 0, 0, 241, 83, 101, 0, 0, 0, 0, 0, 0, 34, 32, 96, 1, 113, 166, 201, 227, 70, 132, 214, 124, 74, 106, 40, 246, 149, 70, 107, 245, 178, 84, 60, 99, 118, 49, 147, 53, 28, 8, 234, 191, 185, 3, 172, 48, 46, 49, 52, 46, 50, 47, 112, 121, 114, 105, 110, 109, 105, 110, 101, 114, 45, 48, 46, 49, 52, 46, 50]
+        }
+      ]
+}

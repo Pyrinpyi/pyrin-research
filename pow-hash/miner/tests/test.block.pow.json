@@ -1,0 +1,81 @@
+{
+    "header": {
+        "parents_by_level": [
+          [
+            "6cf616d591b493edc96b1cf8066bc9dcf1a016f3eccc3665b243da3074600048"
+          ],
+          [
+            "b9ff1ee22a56c2c534da456b6ee7260a333a9a72571981354c0779dd2e12ad50"
+          ],
+          [
+            "b9ff1ee22a56c2c534da456b6ee7260a333a9a72571981354c0779dd2e12ad50"
+          ],
+          [
+            "0bcd7397eae5c14e980d866f6e6d8947bfa398c2e5402d4b7ffc3645255ad45b"
+          ],
+          [
+            "0bcd7397eae5c14e980d866f6e6d8947bfa398c2e5402d4b7ffc3645255ad45b"
+          ],
+          [
+            "83f355e4eb723ae4d674c1ab5d7aa3a3e997c846e031cc29464379aa66a57122"
+          ],
+          [
+            "52e80693ea920cbadcb5182553e9b14b48b88f1343b2d30450ac7e22d9c19a65"
+          ],
+          [
+            "52e80693ea920cbadcb5182553e9b14b48b88f1343b2d30450ac7e22d9c19a65"
+          ],
+          [
+            "52e80693ea920cbadcb5182553e9b14b48b88f1343b2d30450ac7e22d9c19a65"
+          ],
+          [
+            "52e80693ea920cbadcb5182553e9b14b48b88f1343b2d30450ac7e22d9c19a65"
+          ],
+          [
+            "52e80693ea920cbadcb5182553e9b14b48b88f1343b2d30450ac7e22d9c19a65"
+          ],
+          [
+            "52e80693ea920cbadcb5182553e9b14b48b88f1343b2d30450ac7e22d9c19a65"
+          ],
+          [
+            "e26cf9987fb61ca72a162d130df426f063839677c36ad26228e45bfbbe26007b"
+          ],
+          [
+            "e26cf9987fb61ca72a162d130df426f063839677c36ad26228e45bfbbe26007b"
+          ],
+          [
+            "e26cf9987fb61ca72a162d130df426f063839677c36ad26228e45bfbbe26007b"
+          ],
+          [
+            "e26cf9987fb61ca72a162d130df426f063839677c36ad26228e45bfbbe26007b"
+          ]
+        ],
+        "version": 1,
+        "nonce": 0,
+        "hash_merkle_root": "70b2369c7eccc0c7825ec9a5f85f91bdd8e76bd42268b89f06f1fdb5a788d587",
+        "accepted_id_merkle_root": "46ce43a5e22f6c18967f1693e9318aa580eeef4a9ed71140330bbf43306d6f7b",
+        "utxo_commitment": "446041e7e0a0273569be2ad7699666af4c536b5850296f022061993df92808e2",
+        "timestamp": 1724363826172,
+        "bits": 545259519,
+        "daa_score": 1281,
+        "blue_score": 1282,
+        "blue_work": "160f0b",
+        "pruning_point": "50e28b47b23b7074d41a3bbba0726fe7e0ec9a16ecb0992c97c050114303fff5"
+      },
+      "transactions": [
+        {
+            "version": 0,
+            "inputs": [],
+            "outputs": [{
+                "value": 1700000000,
+                "script_public_key": "000020600171a6c9e34684d67c4a6a28f695466bf5b2543c63763193351c08eabfb903ac"
+            }],
+            "subnetwork_id": "0100000000000000000000000000000000000000",
+            "lock_time": 0,
+            "gas": 0,
+            "fee": 0,
+            "mass": 0,
+            "payload": [2, 5, 0, 0, 0, 0, 0, 0, 0, 241, 83, 101, 0, 0, 0, 0, 0, 0, 34, 32, 96, 1, 113, 166, 201, 227, 70, 132, 214, 124, 74, 106, 40, 246, 149, 70, 107, 245, 178, 84, 60, 99, 118, 49, 147, 53, 28, 8, 234, 191, 185, 3, 172, 48, 46, 49, 52, 46, 50, 47, 112, 121, 114, 105, 110, 109, 105, 110, 101, 114, 45, 48, 46, 49, 52, 46, 50]
+        }
+      ]
+}
